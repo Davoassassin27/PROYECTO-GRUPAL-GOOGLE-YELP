@@ -15,13 +15,13 @@ Como consultores de datos, nuestro enfoque se centra en analizar la información
 
 ### Alcance del proyecto
 
-- Alcance Temporal:
+- **Alcance Temporal:**
   Será de 4 semanas, con entregas semanales según SCRUM. Se utilizarán sprints de una semana para dividir las actividades. Las tres primeras semanas se completarán los hitos planificados, incluyendo recopilación de datos, análisis exploratorio y desarrollo de modelos de machine learning. La cuarta semana se dedicará a retoques y preparación de la presentación final.
-- Alcance del equipo:
+- **Alcance del equipo:**
   El equipo estará conformado por 2 ingenieros de datos, 2 especialistas en machine learning y 1 analista de datos. Los ingenieros se encargarán de la recopilación y depuración de datos, mientras que los especialistas desarrollarán modelos de machine learning. El analista realizará el análisis exploratorio de las reseñas. Cada miembro tendrá roles específicos para trabajar de manera colaborativa en todas las etapas. La comunicación y coordinación serán clave para integrar los componentes del proyecto.
-- Alcance Financiero:
+- **Alcance Financiero:**
   El alcance financiero del proyecto se enfoca en la utilización de herramientas gratuitas y recursos disponibles sin contar con un presupuesto asignado. El equipo, compuesto por 5 personas especializadas en ingeniería de datos, machine learning y data analytics, desarrollará el proyecto sin recibir remuneración, ya que forma parte del proyecto sin fines de lucro. Se buscará aprovechar las opciones gratuitas para cumplir con los objetivos del proyecto de manera eficiente.
-- Alcance Geográfico:
+- **Alcance Geográfico:**
   El proyecto se centrará en empresas del sector de la hotelería, restaurantes y otros negocios relacionados con el turismo y el ocio en los Estados Unidos.
-- Alcance de impacto:
+- **Alcance de impacto:**
   El proyecto busca impactar tanto a empresarios como a clientes al proporcionar información valiosa sobre la percepción de la ronda de inversores y brindar recomendaciones personalizadas. Esto permitirá a los empresarios tomar decisiones estratégicas informadas y mejorar la experiencia del cliente. Con datos limpios, análisis exploratorio, modelos de machine learning y un dashboard interactivo, se optimizará la toma de decisiones, la experiencia del cliente y la relación entre ambas partes.
