@@ -1,4 +1,6 @@
-# PROYECTO-GRUPAL-GOOGLE-YELP
+# PROYECTO GOOGLE + YELP - Analitix
+
+![Logo de empresa](src/images/AX.png)
 
 ### Introducción del proyecto
 
