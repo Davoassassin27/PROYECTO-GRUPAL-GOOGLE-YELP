@@ -5,6 +5,8 @@ joblib
 scikit-learn
 tensorflow
 mtranslate
+keras
+re
 
 
 
