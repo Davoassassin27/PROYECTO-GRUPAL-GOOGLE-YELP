@@ -3,9 +3,8 @@ numpy
 streamlit
 joblib
 scikit-learn
-re
 tensorflow
 mtranslate
-LabelEncoder
+
 
 
