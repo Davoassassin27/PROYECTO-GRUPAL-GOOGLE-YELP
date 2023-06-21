@@ -3,5 +3,9 @@ numpy
 streamlit
 joblib
 scikit-learn
-sklearn
 re
+tensorflow
+mtranslate
+LabelEncoder
+
+
