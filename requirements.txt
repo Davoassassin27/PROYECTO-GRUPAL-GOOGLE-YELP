@@ -6,7 +6,7 @@ scikit-learn
 tensorflow
 mtranslate
 keras
-python=3.11.14
+python==3.11.14
 
 
 
