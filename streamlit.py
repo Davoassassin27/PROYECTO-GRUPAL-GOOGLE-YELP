@@ -10,9 +10,9 @@ from tensorflow import keras
 
 ################################### Modelo Prediccion ########################################################
 
-model_forest=load('modelo_RF3.joblib')
-index_model=pd.read_csv('index_model3.csv')
-df = pd.read_csv("ciudades_categorias.csv")
+model_forest=load('ML/modelo_RF3.joblib')
+index_model=pd.read_csv('dataset/index_model3.csv')
+df = pd.read_csv("dataset/ciudades_categorias.csv")
 
 @st.cache_data
 def prediccion(categoria, ciudad, categoria1, categoria2):
@@ -49,7 +49,7 @@ def prediccion(categoria, ciudad, categoria1, categoria2):
 
 ################################### Modelo Recomendacion ########################################################
 
-dfrec = pd.read_csv("dataset2.csv", low_memory=False)
+dfrec = pd.read_csv("dataset/dataset2.csv", low_memory=False)
 
 label_encoder = LabelEncoder()
 label_encoder.fit(dfrec['atributos'])
@@ -69,7 +69,7 @@ def hacer_predicciones4(modelo, datos_nuevos, top_n=10):
     
     return etiquetas_predichas
 
-modelo_cargado = keras.models.load_model('modelo_at_1')
+modelo_cargado = keras.models.load_model('ML/modelo_at_1')
 
 
  
