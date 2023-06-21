@@ -1,4 +1,4 @@
-<img src="src/images/Logo%20Analitix.png" width="120" height="82">
+<img src="src/images/Logo%20Analitix.PNG" width="120" height="82">
 
 **Consultora de datos**
 
@@ -20,7 +20,7 @@ _Este análisis de datos nos permite proporcionar un análisis detallado basado 
 
 _Es una solución integral que combina análisis avanzado, machine learning y estrategias de gestión de la reputación para garantizar la disponibilidad de datos limpios y estructurados, provenientes de plataformas de reseñas como Yelp y Google Maps. Nuestro objetivo es brindar información relevante y confiable para respaldar la toma de decisiones estratégicas tanto en la gestión de la reputación como en la inversión en negocios rentables._
 
-<img src="src/images/ReviewTrends.png" alt="Nuestro TEAM" width="500" height="200">
+<img src="src/images/ReviewTrends.PNG" alt="Nuestro TEAM" width="500" height="200">
 
 ## **Componentes del Producto** 🚀
 
