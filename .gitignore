@@ -1,0 +1,5 @@
+# dataset BONUS y dataset filtrado del BONUS
+dataset.csv
+Bonus_Filtrado_Neuronal/
+ML/modelo_RF3.joblib
+modelo_RF3.joblib
